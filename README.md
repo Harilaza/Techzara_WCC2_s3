@@ -45,6 +45,11 @@ php artisan storage:link
 ```php
 php artisan serve
 ```
+## BASE_URL : POST
+```
+http://127.0.0.1:8000/graphql_API
+```
+
 ## Queries 
 
 - In the query `count` is the number of item per page, and `page` is the index of the current page.
