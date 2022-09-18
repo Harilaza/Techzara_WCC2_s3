@@ -404,7 +404,7 @@ mutation($images : [Upload!]!){
 }
 ```
 - Select File stape:
- click the checkbox in bottom left corner to authorize multiple select file then select your image file by clicking the button.
+ click the checkbox in bottom left corner to authorize multiple select file then select your image file by clicking the button. Change the variable name `file` to `images`.
 ![multiple file!](altair_upload.png)
 
 
